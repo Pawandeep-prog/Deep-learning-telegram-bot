@@ -38,7 +38,7 @@ def image(updater, context):
 
 
 
-updater = Updater("5181812990:AAEtF2GYX-F9bJzX59MBT9BuhRoBuSyr9jE")
+updater = Updater("PASTE YOUR CODE HERE!")
 dispatcher = updater.dispatcher
 
 dispatcher.add_handler(CommandHandler("start", start))
